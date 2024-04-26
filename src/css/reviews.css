@@ -1,0 +1,74 @@
+.reviews {
+}
+
+.container {
+}
+.reviews-title {
+  font-family: 'Inter Tight', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: -0.02em;
+  color: rgba(250, 250, 250, 0.4);
+}
+.reviews-list {
+}
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.swiper-wrapper {
+}
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.swiper-button-prev {
+}
+.swiper-button-next {
+}
+
+.reviews-section {
+  width: 1376px;
+  height: 502px;
+}
+.container {
+}
+.reviews {
+}
+.reviews-title {
+  font-family: 'Inter Tight', sans-serif;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.02em;
+  color: rgba(250, 250, 250, 0.4);
+  text-align: left;
+  margin-bottom: 32px;
+}
+.reviews-list {
+  list-style-type: none;
+}
+.reviews-card {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  row-gap: 16px;
+  align-items: center;
+}
+
+.photo {
+  border-radius: 10px;
+}
+.div-reviews-info {
+  font-family: 'Inter Tight', sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.02em;
+  color: rgba(250, 250, 250, 0.6);
+}
+.reviews-person-name {
+}
+.reviews-person-info {
+}
